@@ -9,3 +9,5 @@ improves the recognition accuracy and the Fire module reduces the learning time 
 was tested and it obtained the highest accuracy of 81.82%. In addition, MobileNetV2 has a strong ability to recognize typical
 rock structures such as bedding, columnar joints, and leaf veins, and can achieve a recognition accuracy of 95.83%.
 Doi:https://doi.org/10.1007/s00603-022-02907-7
+
+All the figures are oubulished in figshare
